@@ -1,4 +1,4 @@
-![Top](./.img/top.png)
+![Top](/profile/.img/top.png)
 
 ## Hi there 👋
 
