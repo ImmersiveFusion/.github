@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[Immersive Fusion](https://immersivefusion.com){:target="if-docs"} is revolutionizing Application Performance Monitoring and Management (APM). As a dynamic start-up, we're pushing boundaries in the APM space by harnessing **3D and Virtual Reality** to create intuitive, immersive solutions. Our flagship product, **Immersive APM**, empowers engineers, architects, operations, and QA teams to troubleshoot, diagnose, and optimize in-house software applications. Alongside cutting-edge immersive experiences, we also support conventional browser-based workflows for maximum flexibility.
+[Immersive Fusion](https://immersivefusion.com) is revolutionizing Application Performance Monitoring and Management (APM). As a dynamic start-up, we're pushing boundaries in the APM space by harnessing **3D and Virtual Reality** to create intuitive, immersive solutions. Our flagship product, **Immersive APM**, empowers engineers, architects, operations, and QA teams to troubleshoot, diagnose, and optimize in-house software applications. Alongside cutting-edge immersive experiences, we also support conventional browser-based workflows for maximum flexibility.
 
 ### Immersive APM
 
