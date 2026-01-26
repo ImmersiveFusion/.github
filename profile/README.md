@@ -1,24 +1,38 @@
 ![Top](/profile/.img/top.png)
 
-## Hi there 👋
+## Enter the World of Your Application®
 
-[Immersive Fusion](https://immersivefusion.com) is revolutionizing Application Performance Monitoring and Management (APM). As a dynamic start-up, we're pushing boundaries in the APM space by harnessing **3D and Virtual Reality** to create intuitive, immersive solutions. Our flagship product, **Immersive APM**, empowers engineers, architects, operations, and QA teams to troubleshoot, diagnose, and optimize in-house software applications. Alongside cutting-edge immersive experiences, we also support conventional browser-based workflows for maximum flexibility.
+[Immersive Fusion](https://immersivefusion.com) builds AI-powered observability that gives you **answers**, not dashboards.
 
-### Immersive APM
+**Describe the problem. Get the answer. Move on.**
 
-[Immersive APM](https://docs.immersivefusion.com/Getting-Started/#big-picture) redefines [APM](https://docs.immersivefusion.com/Resources/Terms-and-Concepts/APM/) with innovative [web](https://docs.immersivefusion.com/Analysis-and-Visualization/Web-and-Mobile/) and immersive technologies like [3D and Virtual Reality (VR)](https://docs.immersivefusion.com/Analysis-and-Visualization/3D-and-VR/). It delivers a visually rich, intuitive way to monitor and enhance application performance, making complex data feel natural and actionable.
+Our flagship product, **Immersive APM**, fuses three pillars into one platform:
 
-#### Immersive APM on Steam 📢🚀👌♥️
+| Pillar | What It Means |
+|--------|---------------|
+| **Immersive** | Step inside your system in 3D/VR—see problems, don't search for them |
+| **AI-Powered** | Tessa, your AI assistant, finds issues and explains them in plain English |
+| **Open** | OpenTelemetry-native. Your data, your format, no vendor lock-in |
 
-Dive into the future of APM with the [Immersive APM 3D/VR client on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)! For more details and setup options, explore our [documentation](https://docs.immersivefusion.com).
+### Why We're Different
+
+Traditional APM tools give you dashboards to investigate. We give you **answers**.
+
+- No query languages to learn—just ask Tessa
+- No dashboard hunting—problems reveal themselves in 3D space
+- No vendor lock-in—built on OpenTelemetry from day one
+
+### Immersive APM on Steam 🚀
+
+Experience observability in 3D/VR with the [Immersive APM Desktop client on Steam](https://store.steampowered.com/app/3624760/Immersive_APM). Works with Meta Quest 2/3/Pro or flat-screen desktop. [Documentation →](https://docs.immersivefusion.com)
 
 ### Hall of Supporters 🏆
 
-Our [Hall of Supporters](https://docs.immersivefusion.com/Partner/Hall-of-Supporters) celebrates the early adopters who’ve joined us on this groundbreaking journey. By trying out **Immersive APM** during its early phases, you’re not just a user—you’re a pioneer shaping the future of APM! Get your name etched in the Hall by signing up for our **free/Start plan** and sharing your feedback. Your insights help us make Immersive APM even better.
+Our [Hall of Supporters](https://docs.immersivefusion.com/Resources/Partner/Hall-of-Supporters) celebrates the pioneers shaping the future of observability with us. Sign up for our **Start plan**, share your feedback, and get your name etched in the Hall.
 
-### Try Immersive APM for Free! 🎉
+### Get Started for Free
 
-Curious? Start with our **free plan** for **Immersive APM**! It’s the perfect way to explore our immersive tools, visualize performance data in 3D/VR, and see how we’re redefining APM—all at no cost. Sign up today at [immersivefusion.com](https://immersivefusion.com).
+Try **Immersive APM** with our [Start plan](https://immersivefusion.com/pricing)—see your system in 3D, meet Tessa, and experience observability that feels like instinct.
 
 ## Get Involved
 
@@ -35,7 +49,7 @@ We’re building a vibrant community, and we’d love for you to join us! Here�
 - **Docs & Resources** 📚: Dive into our [official documentation](https://docs.immersivefusion.com) for tutorials, APIs, and more.
 - **Fun Fact** 🍿: Our team fuels up with coffee, code, and a shared obsession with VR gaming—what’s your morning vibe?
 
-Let’s shape the future of APM together! 🚀
+Let's shape the future of observability together! 🚀
 
 ---
 
