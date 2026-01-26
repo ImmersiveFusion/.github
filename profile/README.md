@@ -28,11 +28,11 @@ Experience observability in 3D/VR with the [Immersive APM Desktop client on Stea
 
 ### Hall of Supporters 🏆
 
-Our [Hall of Supporters](https://docs.immersivefusion.com/Resources/Partner/Hall-of-Supporters) celebrates the pioneers shaping the future of observability with us. Sign up for our **Start plan**, share your feedback, and get your name etched in the Hall.
+Our [Hall of Supporters](https://docs.immersivefusion.com/Resources/Partner/Hall-of-Supporters) celebrates the pioneers shaping the future of observability with us. [Start Free](https://portal.iapm.app), share your feedback, and get your name etched in the Hall.
 
-### Get Started for Free
+### Start Free
 
-Try **Immersive APM** with our [Start plan](https://immersivefusion.com/pricing)—see your system in 3D, meet Tessa, and experience observability that feels like instinct.
+Try **Immersive APM** — [Start Free](https://portal.iapm.app) to see your system in 3D, meet Tessa, and experience observability that feels like instinct.
 
 ## Get Involved
 
