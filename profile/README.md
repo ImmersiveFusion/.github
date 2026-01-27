@@ -8,9 +8,15 @@ Our flagship product, **Immersive APM**, fuses three pillars into one platform:
 
 | Pillar | What It Means |
 |--------|---------------|
-| **Immersive** | Step inside your system in 3D/VR—see problems, don't search for them |
+| **Immersive** | Step inside your system in 3D—see problems, don't search for them |
 | **AI-Powered** | Tessa, your AI assistant, finds issues and explains them in plain English |
 | **Open** | OpenTelemetry-native. Your data, your format, no vendor lock-in |
+
+### The Problem We Solve
+
+- **4.4 monitoring tools** per team on average *(New Relic, 2025)*
+- **5 weeks/year** lost to context switching *(Harvard Business Review)*
+- **35-50% of dev time** spent debugging *(Cambridge University)*
 
 ### Why We're Different
 
@@ -20,9 +26,9 @@ Traditional APM tools give you dashboards to investigate. We give you **answers*
 - No dashboard hunting—problems reveal themselves in 3D space
 - No vendor lock-in—built on OpenTelemetry from day one
 
-### Immersive APM on Steam 🚀
+### Immersive APM on Steam
 
-Experience observability in 3D/VR with the [Immersive APM Desktop client on Steam](https://store.steampowered.com/app/3624760/Immersive_APM). Works with Meta Quest 2/3/Pro or flat-screen desktop. [Documentation →](https://docs.immersivefusion.com)
+Experience observability in 3D with the [Immersive APM Desktop client on Steam](https://store.steampowered.com/app/3624760/Immersive_APM). Works on desktop or with VR headsets. [Documentation →](https://docs.immersivefusion.com)
 
 ### Hall of Supporters 🏆
 
@@ -45,7 +51,7 @@ We’re building a vibrant community, and we’d love for you to join us! Here�
 <!-- - **Contribute** 🌈: Got ideas or code to share? Check our [contribution guidelines](https://docs.immersivefusion.com/Contributing/) to collaborate on GitHub.
 -->
 - **Docs & Resources** 📚: Dive into our [official documentation](https://docs.immersivefusion.com) for tutorials, APIs, and more.
-- **Fun Fact** 🍿: Our team fuels up with coffee, code, and a shared obsession with VR gaming—what’s your morning vibe?
+- **Fun Fact**: Our team fuels up with coffee, code, and a shared obsession with 3D visualization—what's your morning vibe?
 
 Let's shape the future of observability together! 🚀
 
