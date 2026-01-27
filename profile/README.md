@@ -2,9 +2,7 @@
 
 ## Enter the World of Your Application®
 
-[Immersive Fusion](https://immersivefusion.com) builds AI-powered observability that gives you **answers**, not dashboards.
-
-**Describe the problem. Get the answer. Move on.**
+[Immersive Fusion](https://immersivefusion.com) builds immersive, AI-powered observability. **The next dimension of observability.**
 
 Our flagship product, **Immersive APM**, fuses three pillars into one platform:
 
