@@ -31,7 +31,7 @@ No NFTs, no virtual land, nothing to buy low and sell high. It runs on the scree
 We keep demo grids on around the clock and stream one of them live, so you can watch a real hunt before you install anything. Nobody starts it for us.
 
 - **[Watch on Twitch](https://www.twitch.tv/immersivefusion)**: costs nothing, asks nothing.
-- **[Enter a grid](https://immersivefusion.com/enter-the-world-of-your-application)**: a free account gets you in and lets you pick any grid, no subscription.
+- **[Enter a grid](https://immersivefusion.com/enter-the-world-of-your-application)**: a free account gets you in and lets you pick any demo grid, no subscription.
 - **[Immersive APM on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)**: the desktop client. Same client, same account. [Documentation →](https://docs.immersivefusion.com)
 
 Some grids are synthetic scenarios we can point chaos at on cue. Others are real systems of our own. We label which is which, because a place has to tell the truth about itself.
