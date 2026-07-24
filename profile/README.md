@@ -2,71 +2,59 @@
 
 ## Enter the World of Your Application®
 
-[Immersive Fusion](https://immersivefusion.com) builds immersive, AI-powered observability. **The next dimension of observability.**
+[Immersive Fusion](https://immersivefusion.com) builds **spatial observability**. Our product is **Immersive APM (IAPM)**: your live system rendered as a place you can walk into, OpenTelemetry-native, with an AI partner beside you.
 
-Our flagship product, **Immersive APM**, fuses three pillars into one platform:
+### Refuse the flatness
 
-| Pillar | What It Means |
-|--------|---------------|
-| **Immersive** | Step inside your system in 3D—see problems, don't search for them |
-| **AI-Powered** | Tessa, your AI assistant, finds issues and explains them in plain English |
-| **Open** | OpenTelemetry-native. Your data, your format, no vendor lock-in |
+It is 3 a.m. and something is wrong. Forty-seven tabs, four dashboards, a customer going quiet in Slack. Your tools are good. They draw every service and redden the failing one. The problem is that the picture comes together in only one place, and that place is your own exhausted head.
 
-### The Problem We Solve
+That is the fog. It was sold as visibility, and it is still fog, because it makes you the one who assembles what you are looking at. Teams carry **4.4 monitoring tools** on average *(New Relic, 2025)*, and the shape of the problem is in none of them.
 
-- **4.4 monitoring tools** per team on average *(New Relic, 2025)*
-- **5 weeks/year** lost to context switching *(Harvard Business Review)*
-- **35-50% of dev time** spent debugging *(Cambridge University)*
+### Absence is the part flat tools cannot draw
 
-### Why We're Different
+A dashboard can only show you what is reporting. It cannot draw the service that should be there and isn't. Spatial observability renders that gap as a phantom, lit among the live callers still reaching for it, so absence points at its own cause.
 
-Traditional APM tools give you dashboards to investigate. We give you **answers**.
+A thing that fades and disappears was here and left. A thing that stays dark was never here and is being called anyway.
 
-- No query languages to learn—just ask Tessa
-- No dashboard hunting—problems reveal themselves in 3D space
-- No vendor lock-in—built on OpenTelemetry from day one
+### The partner in the room
 
-### Immersive APM on Steam
+Tessa is not a chatbot in a sidebar. Her view is your neighborhood, because your position scopes it, and she proposes the only way a partner in a place can: by pointing. She can mark anywhere, and she can move nothing. She stops at the line where deciding begins, because the one who answers for what happens next is the one who should decide it.
 
-Experience observability in 3D with the [Immersive APM Desktop client on Steam](https://store.steampowered.com/app/3624760/Immersive_APM). Works on desktop or with VR headsets. [Documentation →](https://docs.immersivefusion.com)
+Human on the loop is not a safety blanket bolted on afterward. It is the load-bearing part.
 
-### Hall of Supporters 🏆
+### It is not the metaverse
 
-Our [Hall of Supporters](https://docs.immersivefusion.com/Resources/Partner/Hall-of-Supporters) celebrates the pioneers shaping the future of observability with us. [Start Free](https://portal.iapm.app), share your feedback, and get your name etched in the Hall.
+No NFTs, no virtual land, nothing to buy low and sell high. It runs on the screen already in front of you. The consumer metaverse built places hunting for a purpose. A production system is already full, already doing something every second, and only ever needed to be shown as the place it is.
 
-### Start Free
+### Watch one running, right now
 
-Try **Immersive APM** — [Start Free](https://portal.iapm.app) to see your system in 3D, meet Tessa, and experience observability that feels like instinct.
+We keep demo grids on around the clock and stream one of them live, so you can watch a real hunt before you install anything. Nobody starts it for us.
+
+- **[Watch on Twitch](https://www.twitch.tv/immersivefusion)**: costs nothing, asks nothing.
+- **[Enter a grid](https://immersivefusion.com/enter-the-world-of-your-application)**: a free account gets you in and lets you pick any grid, no subscription.
+- **[Immersive APM on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)**: the desktop client. Same client, same account. [Documentation →](https://docs.immersivefusion.com)
+
+Some grids are synthetic scenarios we can point chaos at on cue. Others are real systems of our own. We label which is which, because a place has to tell the truth about itself.
+
+### The academies
+
+Not everything we run is a product. Through our free academies we try to meet people where the AI moment is actually landing: existential worry, fear of losing work to it, and plain trying to make sense of what is real. A human answers, in their own words, and we never pitch anyone who came for help.
+
+That is part of our spine, not our funnel.
+
+### Open by default
+
+OpenTelemetry-native, with no proprietary agents to install. Use any OTel-compatible collector, export your data whenever you want, and keep it in the format it arrived in. No query language to learn, and nothing locked in.
 
 ## Get Involved
 
-We’re building a vibrant community, and we’d love for you to join us! Here’s how:
+- **Join our Discord** 💬: [Immersive Fusion Discord](https://discord.gg/zevywnQp6K)
+- **Follow along** 🌐: [YouTube](https://www.youtube.com/@immersivefusion) · [Twitch](https://www.twitch.tv/immersivefusion) · [X (Twitter)](https://x.com/immersivefusion) · [LinkedIn](https://linkedin.com/company/immersivefusion)
+- **Docs & Resources** 📚: [official documentation](https://docs.immersivefusion.com)
+- **Start Free** 🚀: [portal.iapm.app](https://portal.iapm.app)
 
-- **Join our Discord** 💬: Connect with other innovators, share ideas, and get real-time updates. Hop into our [Immersive Fusion Discord](https://discord.gg/zevywnQp6K) and let’s geek out together!
-- **Follow us on social media** 🌐: Stay in the loop with the latest news, sneak peeks, and community highlights. Find us on:
-  - [YouTube](https://www.youtube.com/@immersivefusion)
-  - [X(Twitter)](https://x.com/immersivefusion)
-  - [LinkedIn](https://linkedin.com/company/immersivefusion)
-
-<!-- - **Contribute** 🌈: Got ideas or code to share? Check our [contribution guidelines](https://docs.immersivefusion.com/Contributing/) to collaborate on GitHub.
--->
-- **Docs & Resources** 📚: Dive into our [official documentation](https://docs.immersivefusion.com) for tutorials, APIs, and more.
-- **Fun Fact**: Our team fuels up with coffee, code, and a shared obsession with 3D visualization—what's your morning vibe?
-
-Let's shape the future of observability together! 🚀
+Open source lives here too: an [OpenTelemetry trace generator](https://github.com/ImmersiveFusion/if-opentelemetry-tracegen), a [chaos simulator](https://github.com/ImmersiveFusion/if-opentelemetry-chaos-simulator-sample), and an [MCP server](https://github.com/ImmersiveFusion/if-apm-mcp-server) for querying live telemetry from your editor.
 
 ---
 
-*Built with ❤️ by the Immersive Fusion team using the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).*
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Built by the Immersive Fusion team.*
