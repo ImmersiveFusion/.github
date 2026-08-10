@@ -2,7 +2,7 @@
 
 ## Enter the World of Your Application®
 
-[Immersive Fusion](https://immersivefusion.com) builds **spatial observability**. Our product is **Immersive APM (IAPM)**: your live system rendered as a place you can walk into, OpenTelemetry-native, with an AI partner beside you.
+[Immersive Fusion](https://immersivefusion.com) builds **spatial observability**. Our product is **DeepCube™**: your live system rendered as a place you can walk into, OpenTelemetry-native, with an AI partner beside you.
 
 ### Refuse the flatness
 
@@ -32,7 +32,7 @@ We keep demo grids on around the clock and stream one of them live, so you can w
 
 - **[Watch on Twitch](https://www.twitch.tv/immersivefusion)**: costs nothing, asks nothing.
 - **[Enter a grid](https://immersivefusion.com/enter-the-world-of-your-application)**: a free account gets you in and lets you pick any demo grid, no subscription.
-- **[Immersive APM on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)**: the desktop client. Same client, same account. [Documentation →](https://docs.immersivefusion.com)
+- **[DeepCube on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)**: the desktop client. Same client, same account. [Documentation →](https://docs.immersivefusion.com)
 
 Some grids are synthetic scenarios we can point chaos at on cue. Others are real systems of our own. We label which is which, because a place has to tell the truth about itself.
 
@@ -51,9 +51,9 @@ OpenTelemetry-native, with no proprietary agents to install. Use any OTel-compat
 - **Join our Discord** 💬: [Immersive Fusion Discord](https://discord.gg/zevywnQp6K)
 - **Follow along** 🌐: [YouTube](https://www.youtube.com/@immersivefusion) · [Twitch](https://www.twitch.tv/immersivefusion) · [X (Twitter)](https://x.com/immersivefusion) · [LinkedIn](https://linkedin.com/company/immersivefusion)
 - **Docs & Resources** 📚: [official documentation](https://docs.immersivefusion.com)
-- **Start Free** 🚀: [portal.iapm.app](https://portal.iapm.app)
+- **Start Free** 🚀: [portal.deepcube.ai](https://portal.deepcube.ai)
 
-Open source lives here too: an [OpenTelemetry trace generator](https://github.com/ImmersiveFusion/if-opentelemetry-tracegen), a [chaos simulator](https://github.com/ImmersiveFusion/if-opentelemetry-chaos-simulator-sample), and an [MCP server](https://github.com/ImmersiveFusion/if-apm-mcp-server) for querying live telemetry from your editor.
+Open source lives here too: an [OpenTelemetry trace generator](https://github.com/ImmersiveFusion/opentelemetry-tracegen), a [chaos simulator](https://github.com/ImmersiveFusion/opentelemetry-chaos-sim), and an [MCP server](https://github.com/ImmersiveFusion/deepcube-mcp-server) for querying live telemetry from your editor.
 
 ---
 
