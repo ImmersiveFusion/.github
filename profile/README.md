@@ -26,7 +26,7 @@ Tessa is not a chatbot in a sidebar. She shares your view, because your position
 
 We keep demo grids on around the clock and stream one of them live, so you can watch a real hunt before you install anything. Nobody starts it for us.
 
-- **[Watch on Twitch](https://www.twitch.tv/immersivefusion)**: costs nothing, asks nothing.
+- **[Watch on Twitch](https://www.twitch.tv/deepcubelive)**: costs nothing, asks nothing.
 - **[Enter a grid](https://immersivefusion.com/enter-the-world-of-your-application)**: a free account gets you in and lets you pick any demo grid, no subscription.
 - **[DeepCube on Steam](https://store.steampowered.com/app/3624760/Immersive_APM)**: the desktop client, same account. [Documentation →](https://docs.deepcube.ai)
 
@@ -45,7 +45,7 @@ Not everything we run is a product. Through our free academies, for adults and f
 ## Get Involved
 
 - **Join our Discord** 💬: [Immersive Fusion Discord](https://discord.gg/zevywnQp6K)
-- **Follow along** 🌐: [YouTube](https://www.youtube.com/@immersivefusion) · [Twitch](https://www.twitch.tv/immersivefusion) · [X (Twitter)](https://x.com/immersivefusion) · [LinkedIn](https://linkedin.com/company/immersivefusion)
+- **Follow along** 🌐: [YouTube](https://www.youtube.com/@immersivefusion) · [Twitch](https://www.twitch.tv/deepcubelive) · [X (Twitter)](https://x.com/immersivefusion) · [LinkedIn](https://linkedin.com/company/immersivefusion)
 - **Docs & Resources** 📚: [docs.deepcube.ai](https://docs.deepcube.ai)
 - **Start Free** 🚀: [portal.deepcube.ai](https://portal.deepcube.ai)
 
