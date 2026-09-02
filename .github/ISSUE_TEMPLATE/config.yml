@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or general help
+    url: https://discord.gg/zevywnQp6K
+    about: Usually faster than an issue, and other people can see the answer.
+  - name: Report a security vulnerability
+    url: https://github.com/ImmersiveFusion/.github/blob/main/SECURITY.md
+    about: Please do not open a public issue. Use a private advisory or email security@immersivefusion.com.
+  - name: Product documentation
+    url: https://docs.deepcube.ai
+    about: Docs for DeepCube and the surrounding tools.
