@@ -78,16 +78,9 @@ For a single commit, `git commit --amend --no-edit -S` and the same push will do
 - **Review threads must be resolved before merge.** Reply and resolve, or say why you
   disagree. An open thread holds the merge.
 
-The exact settings vary a little by repository:
-
-| Repository | Signed commits | Linear history | Approvals | Merge methods | Required checks |
-|---|---|---|---|---|---|
-| `snowglobe`, `shoebox`, `sos-beacon`, `deepcube-mcp-server`, `.github` | Required | Required | 1 | Squash, rebase | none |
-| `deepcube-docs` | Required | Required | 1 | Squash, rebase | `build-and-verify` |
-| `academy-general`, `academy-kids` | Not enforced | Not enforced | 0 | Merge, squash, rebase | none |
-
-Sign your commits on the academy repositories too. The rule is not switched on there
-today, and nobody should have to remember which list a repository is on.
+Every repository enforces the same set: signed commits, linear history, one approving
+review, review threads resolved, and squash or rebase merges only. `deepcube-docs` adds
+one required status check, `build-and-verify`, which its own guide explains.
 
 ## The shape of a good pull request
 
