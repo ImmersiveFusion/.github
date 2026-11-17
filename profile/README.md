@@ -47,7 +47,7 @@ Not everything we run is a product. Through our free academies, for adults and f
 - **Join our Discord** 💬: [Immersive Fusion Discord](https://discord.gg/zevywnQp6K)
 - **Follow along** 🌐: [YouTube](https://www.youtube.com/@immersivefusion) · [Twitch](https://www.twitch.tv/deepcubelive) · [X (Twitter)](https://x.com/immersivefusion) · [LinkedIn](https://linkedin.com/company/immersivefusion)
 - **Docs & Resources** 📚: [docs.deepcube.ai](https://docs.deepcube.ai)
-- **Start Free** 🚀: [portal.deepcube.ai](https://portal.deepcube.ai)
+- **Start Free** 🚀: [deepcube.ai/start](https://deepcube.ai/start)
 
 ---
 
